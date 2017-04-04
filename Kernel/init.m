@@ -1,0 +1,1 @@
+(*applications init file*)
